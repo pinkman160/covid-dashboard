@@ -1,0 +1,8 @@
+## Dependency directories
+mycovid/
+
+##Spatial files
+spatial_data/
+
+##Large file
+data/all_response.json
