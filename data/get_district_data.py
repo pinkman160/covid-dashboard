@@ -20,9 +20,9 @@ df.columns = ["State","District","Date","Confirmed","Active","Recovered","Deceas
 df["Date"] = pd.to_datetime(df["Date"])
 df = df.sort_values("Date", ascending=True)
 df=df.reset_index(drop=True)
-df["NewConfirmed"] =  df.groupby(['District'])["Confirmed"].diff().fillna(0)
-df["NewDeceased"] = df.groupby(['District'])["Deceased"].diff().fillna(0)
-df["NewRecovered"] = df.groupby(['District'])["Recovered"].diff().fillna(0)
+df["NewConfirmed"] =  df.groupby(['State','District'])["Confirmed"].diff().fillna(0)
+df["NewDeceased"] = df.groupby(['State','District'])["Deceased"].diff().fillna(0)
+df["NewRecovered"] = df.groupby(['State','District'])["Recovered"].diff().fillna(0)
 
 
 
@@ -40,7 +40,8 @@ df['NewDistrict'] = df['District'].apply(lambda x: district_rename(x))
 
 
 df.loc[df.District == 'Dadra and Nagar Haveli' , 'State'] = 'Dadra and Nagar Haveli'
-# df.loc[df.District  'Daman' , 'State'] = 'Daman and Diu'
-# df.loc[df.District  'Diu' , 'State'] = 'Daman and Diu' 
+df.loc[df.District == 'Daman' , 'State'] = 'Daman and Diu'
+df.loc[df.District == 'Diu' , 'State'] = 'Daman and Diu' 
 
+df['NewState'] = df['State'].apply(lambda x: 'Jammu and Kashmir' if x=='Ladakh' else x)
 df.to_csv("district_daily_data.csv", index = False)

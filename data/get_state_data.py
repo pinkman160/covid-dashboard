@@ -27,7 +27,7 @@ with open("state_district_code.json","r") as f:
 f.close()
 
 df = pd.read_csv("latest_data.csv")
-df['State'] = df['State_code'].apply(lambda x: code['Statecode'][x])
+# df['State'] = df['State_code'].apply(lambda x: code['Statecode'][x])
 
 df.to_csv("latest_data.csv",index=False)
 
@@ -62,7 +62,11 @@ for state in state_list:
     df_state=df_state.reset_index(drop=True)
     for i in [2,5,7,10]:
         for index in range(i-1,len(df_state)):
+    
             df_state['doubling_time_last_'+str(i)+'days'].iat[index] = (np.log(2) * i) / np.log( df_state['Confirmed'].iat[index] / df_state['Confirmed'].iat[index-i+1]  )
+            df['doubling_time_last_'+str(i)+'days'] = pd.to_numeric(df['doubling_time_last_'+str(i)+'days'])
+            df_state = df_state.replace([np.inf, -np.inf], np.nan)
+    
     all_state_df = all_state_df.append(df_state)
 
 

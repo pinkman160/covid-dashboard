@@ -1,0 +1,189 @@
+				Country	Flag	UpdatedFlag
+Mauritius	001-mauritius.png			Afghanistan	111-afghanistan.png	Afghanistan.png
+Cyprus	002-cyprus.png			Albania	099-albania.png	Albania.png
+Austria	003-austria.png			Algeria	144-algeria.png	Algeria.png
+Oman	004-oman.png			Andorra	045-andorra.png	Andorra.png
+Ethiopia	005-ethiopia.png			Angola	117-angola.png	Angola.png
+Tanzania	006-tanzania.png			Antigua and Barbuda	075-antigua-and-barbuda.png	Antigua and Barbuda.png
+Nicaragua	007-nicaragua.png			Argentina	198-argentina.png	Argentina.png
+Estonia	008-estonia.png			Armenia	108-armenia.png	Armenia.png
+Uganda	009-uganda.png			Australia	234-australia.png	Australia.png
+Slovenia	010-slovenia.png			Austria	003-austria.png	Austria.png
+Zimbabwe	011-zimbabwe.png			Azerbaijan	141-azerbaijan.png	Azerbaijan.png
+Sao Tome and Principe	012-sao-tome-and-prince.png			Bahamas	120-bahamas.png	Bahamas.png
+Italy	013-italy.png			Bahrain	138-bahrain.png	Bahrain.png
+El Salvador	015-el-salvador.png			Bangladesh	147-bangladesh.png	Bangladesh.png
+Nepal	016-nepal.png			Barbados	084-barbados.png	Barbados.png
+Lebanon	018-lebanon.png			Belarus	135-belarus.png	Belarus.png
+Iraq	020-iraq.png			Belgium	165-belgium.png	Belgium.png
+Syrian Arab Republic	022-syria.png			Belize	078-belize.png	Belize.png
+Honduras	024-honduras.png			Benin	060-benin.png	Benin.png
+Comoros	029-comoros.png			Bhutan	040-bhutan.png	Bhutan.png
+Zambia	032-zambia.png			Bolivia	150-bolivia.png	Bolivia.png
+China	034-china.png			Bosnia	132-bosnia-and-herzegovina.png	Bosnia.png
+Luxembourg	035-luxembourg.png			Botswana	126-botswana.png	Botswana.png
+Central African Republic	036-central-african-republic.png			Brazil	255-brazil.png	Brazil.png
+Jamaica	037-jamaica.png			Brunei	119-brunei.png	Brunei.png
+Monaco	039-monaco.png			Bulgaria	168-bulgaria.png	Bulgaria.png
+Bhutan	040-bhutan.png			Burkina Faso	090-burkina-faso.png	Burkina Faso.png
+Paraguay	041-paraguay.png			Burma	058-myanmar.png	Burma.png
+Latvia	044-latvia.png			Burundi	057-burundi.png	Burundi.png
+Andorra	045-andorra.png			Cabo Verde	t.png	Cabo Verde.png
+Dominican Republic	047-dominican-republic.png			Cambodia	159-cambodia.png	Cambodia.png
+Tunisia	049-tunisia.png			Cameroon	105-cameroon.png	Cameroon.png
+Mauritania	050-mauritania.png			Canada	243-canada.png	Canada.png
+Kosovo	052-kosovo.png			Central African Republic	036-central-african-republic.png	Central African Republic.png
+Ghana	053-ghana.png			Chad	066-chad.png	Chad.png
+Guinea-Bissau	056-guinea-bissau.png			Chile	131-chile.png	Chile.png
+Burundi	057-burundi.png			China	034-china.png	China.png
+Burma	058-myanmar.png			Colombia	177-colombia.png	Colombia.png
+Gabon	059-gabon.png			Comoros	029-comoros.png	Comoros.png
+Benin	060-benin.png			Congo	157-republic-of-the-congo.png	Congo.png
+Namibia	062-namibia.png			Costa Rica	156-costa-rica.png	Costa Rica.png
+Japan	063-japan.png			Cote d'Ivoire	161-ivory-coast.png	Cote d'Ivoire.png
+Lithuania	064-lithuania.png			Croatia	164-croatia.png	Croatia.png
+Eritrea	065-eritrea.png			Cuba	153-cuba.png	Cuba.png
+Chad	066-chad.png			Cyprus	002-cyprus.png	Cyprus.png
+Kenya	067-kenya.png			Czechia	149-czech-republic.png	Czechia.png
+Djibouti	068-djibouti.png			DRC	249-democratic-republic-of-congo.png	DRC.png
+Serbia	071-serbia.png			Denmark	174-denmark.png	Denmark.png
+Togo	073-togo.png			Diamond Princess	t.png	Diamond Princess.png
+Kazakhstan	074-kazakhstan.png			Djibouti	068-djibouti.png	Djibouti.png
+Antigua and Barbuda	075-antigua-and-barbuda.png			Dominica	186-dominica.png	Dominica.png
+Suriname	076-suriname.png			Dominican Republic	047-dominican-republic.png	Dominican Republic.png
+Jordan	077-jordan.png			Ecuador	104-ecuador.png	Ecuador.png
+Belize	078-belize.png			Egypt	158-egypt.png	Egypt.png
+Iceland	080-iceland.png			El Salvador	015-el-salvador.png	El Salvador.png
+Somalia	083-somalia.png			Equatorial Guinea	189-equatorial-guinea.png	Equatorial Guinea.png
+Barbados	084-barbados.png			Eritrea	065-eritrea.png	Eritrea.png
+Nigeria	086-nigeria.png			Estonia	008-estonia.png	Estonia.png
+Uruguay	088-uruguay.png			Ethiopia	005-ethiopia.png	Ethiopia.png
+Burkina Faso	090-burkina-faso.png			Fiji	137-fiji.png	Fiji.png
+Slovakia	091-slovakia.png			Finland	125-finland.png	Finland.png
+Sierra Leone	092-sierra-leone.png			France	195-france.png	France.png
+S. Korea	094-south-korea.png			Gabon	059-gabon.png	Gabon.png
+Mozambique	096-mozambique.png			Gambia	146-gambia.png	Gambia.png
+San Marino	097-san-marino.png			Georgia	256-georgia.png	Georgia.png
+Guatemala	098-guatemala.png			Germany	162-germany.png	Germany.png
+Albania	099-albania.png			Ghana	053-ghana.png	Ghana.png
+Pakistan	100-pakistan.png			Greece	170-greece.png	Greece.png
+Ecuador	104-ecuador.png			Grenada	210-grenada.png	Grenada.png
+Cameroon	105-cameroon.png			Guatemala	098-guatemala.png	Guatemala.png
+Panama	106-panama.png			Guinea	110-guinea.png	Guinea.png
+Kuwait	107-kwait.png			Guinea-Bissau	056-guinea-bissau.png	Guinea-Bissau.png
+Armenia	108-armenia.png			Guyana	t.png	Guyana.png
+Romania	109-romania.png			Haiti	185-haiti.png	Haiti.png
+Guinea	110-guinea.png			Holy See	t.png	Holy See.png
+Afghanistan	111-afghanistan.png			Honduras	024-honduras.png	Honduras.png
+"Lao People""s Democratic Republic"	112-laos.png			Hungary	115-hungary.png	Hungary.png
+Hungary	115-hungary.png			Iceland	080-iceland.png	Iceland.png
+Angola	117-angola.png			India	246-india.png	India.png
+Malaysia	118-malasya.png			Indonesia	209-indonesia.png	Indonesia.png
+Brunei	119-brunei.png			Iran	136-iran.png	Iran.png
+Bahamas	120-bahamas.png			Iraq	020-iraq.png	Iraq.png
+New Zealand	121-new-zealand.png			Ireland	179-ireland.png	Ireland.png
+Finland	125-finland.png			Israel	155-israel.png	Israel.png
+Botswana	126-botswana.png			Italy	013-italy.png	Italy.png
+Sri Lanka	127-sri-lanka.png			Jamaica	037-jamaica.png	Jamaica.png
+Spain	128-spain.png			Japan	063-japan.png	Japan.png
+Chile	131-chile.png			Jordan	077-jordan.png	Jordan.png
+Bosnia	132-bosnia-and-herzegovina.png			Kazakhstan	074-kazakhstan.png	Kazakhstan.png
+Saudi Arabia	133-saudi-arabia.png			Kenya	067-kenya.png	Kenya.png
+Liechtenstein	134-liechtenstein.png			Kosovo	052-kosovo.png	Kosovo.png
+Belarus	135-belarus.png			Kuwait	107-kwait.png	Kuwait.png
+Iran	136-iran.png			Kyrgyzstan	152-kyrgyzstan.png	Kyrgyzstan.png
+Fiji	137-fiji.png			"Lao People""s Democratic Republic"	112-laos.png	"Lao People""s Democratic Republic.png"
+Bahrain	138-bahrain.png			Latvia	044-latvia.png	Latvia.png
+Venezuela	139-venezuela.png			Lebanon	018-lebanon.png	Lebanon.png
+Azerbaijan	141-azerbaijan.png			Lesotho	176-lesotho.png	Lesotho.png
+Norway	143-norway.png			Liberia	169-liberia.png	Liberia.png
+Algeria	144-algeria.png			Libyan Arab Jamahiriya	231-libya.png	Libyan Arab Jamahiriya.png
+Ukraine	145-ukraine.png			Liechtenstein	134-liechtenstein.png	Liechtenstein.png
+Gambia	146-gambia.png			Lithuania	064-lithuania.png	Lithuania.png
+Bangladesh	147-bangladesh.png			Luxembourg	035-luxembourg.png	Luxembourg.png
+Czechia	149-czech-republic.png			MS Zaandam	t.png	MS Zaandam.png
+Bolivia	150-bolivia.png			Macedonia	236-republic-of-macedonia.png	Macedonia.png
+UAE	151-united-arab-emirates.png			Madagascar	242-madagascar.png	Madagascar.png
+Kyrgyzstan	152-kyrgyzstan.png			Malawi	214-malawi.png	Malawi.png
+Cuba	153-cuba.png			Malaysia	118-malasya.png	Malaysia.png
+Swaziland	154-swaziland.png			Maldives	225-maldives.png	Maldives.png
+Israel	155-israel.png			Mali	173-mali.png	Mali.png
+Costa Rica	156-costa-rica.png			Malta	194-malta.png	Malta.png
+Congo	157-republic-of-the-congo.png			Mauritania	050-mauritania.png	Mauritania.png
+Egypt	158-egypt.png			Mauritius	001-mauritius.png	Mauritius.png
+Cambodia	159-cambodia.png			Mexico	252-mexico.png	Mexico.png
+Cote d'Ivoire	161-ivory-coast.png			Moldova	212-moldova.png	Moldova.png
+Germany	162-germany.png			Monaco	039-monaco.png	Monaco.png
+Papua New Guinea	163-papua-new-guinea.png			Mongolia	258-mongolia.png	Mongolia.png
+Croatia	164-croatia.png			Montenegro	239-montenegro.png	Montenegro.png
+Belgium	165-belgium.png			Morocco	166-morocco.png	Morocco.png
+Morocco	166-morocco.png			Mozambique	096-mozambique.png	Mozambique.png
+Bulgaria	168-bulgaria.png			Namibia	062-namibia.png	Namibia.png
+Liberia	169-liberia.png			Nepal	016-nepal.png	Nepal.png
+Greece	170-greece.png			Netherlands	237-netherlands.png	Netherlands.png
+Saint Lucia	172-st-lucia.png			New Zealand	121-new-zealand.png	New Zealand.png
+Mali	173-mali.png			Nicaragua	007-nicaragua.png	Nicaragua.png
+Denmark	174-denmark.png			Niger	222-niger.png	Niger.png
+Lesotho	176-lesotho.png			Nigeria	086-nigeria.png	Nigeria.png
+Colombia	177-colombia.png			Norway	143-norway.png	Norway.png
+Ireland	179-ireland.png			Oman	004-oman.png	Oman.png
+Trinidad and Tobago	181-trinidad-and-tobago.png			Pakistan	100-pakistan.png	Pakistan.png
+Sweden	184-sweden.png			Panama	106-panama.png	Panama.png
+Haiti	185-haiti.png			Papua New Guinea	163-papua-new-guinea.png	Papua New Guinea.png
+Dominica	186-dominica.png			Paraguay	041-paraguay.png	Paraguay.png
+Peru	188-peru.png			Peru	188-peru.png	Peru.png
+Equatorial Guinea	189-equatorial-guinea.png			Philippines	192-philippines.png	Philippines.png
+Uzbekistan	190-uzbekistn.png			Poland	211-poland.png	Poland.png
+Philippines	192-philippines.png			Portugal	224-portugal.png	Portugal.png
+Malta	194-malta.png			Qatar	t.png	Qatar.png
+France	195-france.png			Romania	109-romania.png	Romania.png
+Tajikistan	196-tajikistan.png			Russia	248-russia.png	Russia.png
+Argentina	198-argentina.png			Rwanda	206-rwanda.png	Rwanda.png
+Sudan	199-sudan.png			S. Korea	094-south-korea.png	S. Korea.png
+South Africa	200-south-africa.png			Saint Kitts and Nevis	t.png	Saint Kitts and Nevis.png
+Taiwan	202-taiwan.png			Saint Lucia	172-st-lucia.png	Saint Lucia.png
+Switzerland	205-switzerland.png			Saint Vincent and the Grenadines	241-st-vincent-and-the-grenadines.png	Saint Vincent and the Grenadines.png
+Rwanda	206-rwanda.png			San Marino	097-san-marino.png	San Marino.png
+West Bank and Gaza	208-palestine.png			Sao Tome and Principe	012-sao-tome-and-prince.png	Sao Tome and Principe.png
+Indonesia	209-indonesia.png			Saudi Arabia	133-saudi-arabia.png	Saudi Arabia.png
+Grenada	210-grenada.png			Senegal	227-senegal.png	Senegal.png
+Poland	211-poland.png			Serbia	071-serbia.png	Serbia.png
+Moldova	212-moldova.png			Seychelles	253-seychelles.png	Seychelles.png
+Malawi	214-malawi.png			Sierra Leone	092-sierra-leone.png	Sierra Leone.png
+Turkey	218-turkey.png			Singapore	230-singapore.png	Singapore.png
+Vietnam	220-vietnam.png			Slovakia	091-slovakia.png	Slovakia.png
+Niger	222-niger.png			Slovenia	010-slovenia.png	Slovenia.png
+Portugal	224-portugal.png			Somalia	083-somalia.png	Somalia.png
+Maldives	225-maldives.png			South Africa	200-south-africa.png	South Africa.png
+Senegal	227-senegal.png			South Sudan	244-south-sudan.png	South Sudan.png
+Singapore	230-singapore.png			Spain	128-spain.png	Spain.png
+Libyan Arab Jamahiriya	231-libya.png			Sri Lanka	127-sri-lanka.png	Sri Lanka.png
+Yemen	232-yemen.png			Sudan	199-sudan.png	Sudan.png
+Australia	234-australia.png			Suriname	076-suriname.png	Suriname.png
+Macedonia	236-republic-of-macedonia.png			Swaziland	154-swaziland.png	Swaziland.png
+Netherlands	237-netherlands.png			Sweden	184-sweden.png	Sweden.png
+Thailand	238-thailand.png			Switzerland	205-switzerland.png	Switzerland.png
+Montenegro	239-montenegro.png			Syrian Arab Republic	022-syria.png	Syrian Arab Republic.png
+Saint Vincent and the Grenadines	241-st-vincent-and-the-grenadines.png			Taiwan	202-taiwan.png	Taiwan.png
+Madagascar	242-madagascar.png			Tajikistan	196-tajikistan.png	Tajikistan.png
+Canada	243-canada.png			Tanzania	006-tanzania.png	Tanzania.png
+South Sudan	244-south-sudan.png			Thailand	238-thailand.png	Thailand.png
+India	246-india.png			Timor-Leste	t.png	Timor-Leste.png
+Russia	248-russia.png			Togo	073-togo.png	Togo.png
+DRC	249-democratic-republic-of-congo.png			Trinidad and Tobago	181-trinidad-and-tobago.png	Trinidad and Tobago.png
+Mexico	252-mexico.png			Tunisia	049-tunisia.png	Tunisia.png
+Seychelles	253-seychelles.png			Turkey	218-turkey.png	Turkey.png
+Brazil	255-brazil.png			UAE	151-united-arab-emirates.png	UAE.png
+Georgia	256-georgia.png			UK	260-united-kingdom.png	UK.png
+Mongolia	258-mongolia.png			USA	t.png	USA.png
+UK	260-united-kingdom.png			Uganda	009-uganda.png	Uganda.png
+				Ukraine	145-ukraine.png	Ukraine.png
+				Uruguay	088-uruguay.png	Uruguay.png
+				Uzbekistan	190-uzbekistn.png	Uzbekistan.png
+				Venezuela	139-venezuela.png	Venezuela.png
+				Vietnam	220-vietnam.png	Vietnam.png
+				West Bank and Gaza	208-palestine.png	West Bank and Gaza.png
+				Western Sahara	t.png	Western Sahara.png
+				Yemen	232-yemen.png	Yemen.png
+				Zambia	032-zambia.png	Zambia.png
+				Zimbabwe	011-zimbabwe.png	Zimbabwe.png
