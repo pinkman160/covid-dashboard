@@ -37,7 +37,8 @@
         "UP": "Uttar Pradesh",
         "UT": "Uttarakhand",
         "WB": "West Bengal",
-        "TT": "India"
+        "TT": "India",
+		"UN": "Unassigned"
     },
     "Districtcode": {
         "AN_Nicobars": "Nicobars",
