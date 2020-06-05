@@ -17,23 +17,23 @@ def download_file(url, filename):
 
 
 
-download_file("https://api.covid19india.org/csv/latest/state_wise.csv", "latest_data.csv")
-download_file("https://api.covid19india.org/csv/latest/state_wise_daily.csv", "state_daily_raw_data.csv")
+download_file("https://api.covid19india.org/csv/latest/state_wise.csv", r"data/latest_data.csv")
+download_file("https://api.covid19india.org/csv/latest/state_wise_daily.csv", r"data/state_daily_raw_data.csv")
 
 
 
-with open("state_district_code.json","r") as f:
+with open(r"data/state_district_code.json","r") as f:
     code = json.load(f)
 f.close()
 
-df = pd.read_csv("latest_data.csv")
+df = pd.read_csv(r"data/latest_data.csv")
 # df['State'] = df['State_code'].apply(lambda x: code['Statecode'][x])
 
-df.to_csv("latest_data.csv",index=False)
+df.to_csv(r"data/latest_data.csv",index=False)
 
 
 
-df = pd.read_csv("state_daily_raw_data.csv")
+df = pd.read_csv(r"data/state_daily_raw_data.csv")
 melt_cols = list(df.columns)[2:]
 
 
@@ -74,5 +74,5 @@ all_state_df["Date"] = pd.to_datetime(all_state_df["Date"])
 all_state_df = all_state_df.sort_values(["State","Date"], ascending=True)
 all_state_df=all_state_df.reset_index(drop=True)
 
-all_state_df.to_csv("state_daily_data.csv",index=False)
+all_state_df.to_csv(r"data/state_daily_data.csv",index=False)
 

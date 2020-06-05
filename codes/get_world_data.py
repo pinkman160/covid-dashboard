@@ -4,7 +4,7 @@ import numpy as np
 
 r = requests.get('https://corona.lmao.ninja/v2/historical?lastdays=150')
 
-with open("world_daily_data.json","w") as f:
+with open(r"data/world_daily_data.json","w") as f:
     json.dump (r.json() ,f, indent=4 )
 f.close()
 raw_data=r.json()
@@ -79,6 +79,6 @@ for con in con_list:
 all_countries_df = all_countries_df.sort_values(['Country','Date'], ascending=True).reset_index()
 
 
-all_countries_df.to_csv('world_daily_data.csv',index=False)
+all_countries_df.to_csv(r'data/world_daily_data.csv',index=False)
 
 # 

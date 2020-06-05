@@ -3,7 +3,7 @@ import pandas as pd
 
 r = requests.get('https://api.covid19india.org/zones.json')
 
-with open("district_zones_data.json","w") as f:
+with open(r"data/district_zones_data.json","w") as f:
     json.dump (r.json() ,f, indent=4 )
 f.close()
 
@@ -27,14 +27,14 @@ codes["Statecode"]["DN"] = "Dadra and Nagar Haveli"
 codes["Statecode"]["DD"] = "Daman and Diu"
 codes["Statecode"]["TT"] = "India"
 
-with open("state_district_code.json","w") as f:
+with open(r"data/state_district_code.json","w") as f:
     json.dump (codes ,f, indent=4 )
 f.close()
 
 # df.loc[df['District'] == 'Daman' , 'Statecode'] = 'DN'
 # df.loc[df['District'] == 'Dadra and Nagar Haveli' , 'Districtcode'] = 'DN_Dadra and Nagar Haveli'
 
-with open ('district_rename.json','r') as f:
+with open (r'data/district_rename.json','r') as f:
     district_dic = json.load(f)
 f.close()
 
@@ -46,5 +46,5 @@ def district_rename(district):
 
 df['NewDistrict'] = df['District'].apply(lambda x: district_rename(x))
 
-df.to_csv("district_zones_data.csv", index = False)
+df.to_csv(r"data/district_zones_data.csv", index = False)
 

@@ -3,7 +3,7 @@ import pandas as pd
 
 r = requests.get('https://api.covid19india.org/districts_daily.json')
 
-with open("district_daily_data.json","w") as f:
+with open(r"data/district_daily_data.json","w") as f:
     json.dump (r.json() ,f, indent=4 )
 f.close()
 
@@ -26,7 +26,7 @@ df["NewRecovered"] = df.groupby(['State','District'])["Recovered"].diff().fillna
 
 
 
-with open ('district_rename.json','r') as f:
+with open (r'data/district_rename.json','r') as f:
     district_dic = json.load(f)
 f.close()
 
@@ -44,4 +44,4 @@ df.loc[df.District == 'Daman' , 'State'] = 'Daman and Diu'
 df.loc[df.District == 'Diu' , 'State'] = 'Daman and Diu' 
 
 df['NewState'] = df['State'].apply(lambda x: 'Jammu and Kashmir' if x=='Ladakh' else x)
-df.to_csv("district_daily_data.csv", index = False)
+df.to_csv(r"data/district_daily_data.csv", index = False)

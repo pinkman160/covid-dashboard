@@ -16,9 +16,9 @@ def download_file(url, filename):
                 file.write(chunk)
 
 
-download_file("https://api.covid19india.org/csv/latest/case_time_series.csv", "country_daily_data.csv")
+download_file("https://api.covid19india.org/csv/latest/case_time_series.csv", r"data/country_daily_data.csv")
 
-df = pd.read_csv("country_daily_data.csv")
+df = pd.read_csv(r"data/country_daily_data.csv")
 df.columns = ['Date', 'NewConfirmed', 'Confirmed', 'NewRecovered','Recovered', 'NewDeceased', 'Deceased']
 df["Active"] = df['Confirmed'] - (df['Deceased'] + df['Recovered'])
 df['Date'] = df['Date'].apply(lambda x: x +" 2020")
@@ -33,7 +33,7 @@ for i in [2,5,7,10]:
 
 df["State"] = "India"
 
-all_state_df = pd.read_csv("state_daily_data.csv")
+all_state_df = pd.read_csv(r"data/state_daily_data.csv")
 all_state_df['Date'] = pd.to_datetime(all_state_df['Date'])
 
 
@@ -41,6 +41,4 @@ all_state_df = all_state_df[all_state_df["State"]!="India"]
 df = df.append(all_state_df)
 
 
-df.to_csv("country_daily_data.csv",index=False)
-
-# print(df['doubling time'])
+df.to_csv(r"data/country_daily_data.csv",index=False)
