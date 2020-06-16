@@ -18,4 +18,5 @@ https://public.tableau.com/profile/suneet.dutta.roy#!/vizhome/COVIDTrackerIndia/
 https://api.covid19india.org/
 
 ## Dashboard
+![image](https://user-images.githubusercontent.com/40355310/84738561-bfd54800-afc7-11ea-94a6-6c56ee0bae4f.png)
 ![image](https://user-images.githubusercontent.com/40355310/84738385-74bb3500-afc7-11ea-999e-f6eb48c06275.png)
